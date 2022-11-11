@@ -558,7 +558,7 @@ video {
 }
 
 .section{
-  background-image: url(../hands.png);
+  background-image: url(/hands.png);
   background-repeat: no-repeat;
   background-position: left;
   width: 100%;
